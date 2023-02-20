@@ -27,7 +27,7 @@ p {margin-bottom: -29px;}
 .btn-newgame { font-size: 31px; margin-top: 4px;}
 
 /* manual */
-.manual {width: 861px; height: 800px; position: relative; margin: 0 auto; background: url('../img/manual.png') repeat;}
+.manual {width: 861px; height: 850px; position: relative; margin: 0 auto; background: url('../img/manual.png') repeat;}
 .manual-titles {font-family: Residu; font-size: 40px; line-height: 40px; color: #0917d6; padding-top: 10px; margin-bottom: 0px; text-align: center;}
 .manual-text {font-family: Residu; font-size: 25px; line-height: 25px; text-indent: 20px; padding-left: 10px; padding-right: 10px; margin-bottom: 0px;}
 .contacts {display: block;margin-left: auto; margin-right: auto;}
