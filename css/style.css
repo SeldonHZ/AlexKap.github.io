@@ -16,8 +16,9 @@ body {
 	font: normal 31px Residu; 
 	line-height: 30px; 
 	color: #000a74; 
+	background: center;
 	background-image: url('Geometry.webp'); 
-	background-size: auto 100%;
+	background-size: cover;
 }
 
 p {margin-bottom: -29px;}
