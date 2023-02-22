@@ -18,7 +18,7 @@ body {
 	color: #000a74; 
 	background: center;
 	background-image: url('Geometry.webp'); 
-	background-size: auto cover;
+	background-size: cover;
 }
 
 p {margin-bottom: -29px;}
